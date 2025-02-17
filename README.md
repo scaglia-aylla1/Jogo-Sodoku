@@ -60,7 +60,7 @@ java Main
 
 #### Caso queira alguma alteração, como adicionar imagens, ajustar o estilo ou incluir outras informações, é só falar! 🚀
 
-[E-mail](aylla@scaglia.com.br)
+[E-mail](mailto:aylla@scaglia.com.br)
 
 
 
